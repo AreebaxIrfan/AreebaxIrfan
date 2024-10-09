@@ -5,8 +5,6 @@ Hello! I’m Areeba, a passionate software engineer with a strong focus on web d
 Beyond my technical skills, I am committed to continuous learning and personal growth. I enjoy tackling complex problems and thrive in collaborative environments where I can exchange ideas with fellow developers. In my spare time, I explore new technologies and contribute to open-source projects, always looking for ways to enhance my knowledge and skills. I believe that innovation stems from a blend of creativity and technical expertise, and I am excited to contribute to the ever-evolving landscape of technology.
 
 
-Got it! Here’s the revised version from Sara's perspective, without the mention of a YouTube channel:
-
 🌱 Currently learning: Generative AI (GEN AI), Web3, and the Metaverse.
 🔭 Working on: JavaScript and TypeScript-based projects.
 🌍 Languages: JavaScript, TypeScript, PHP, Python (programming), Urdu, English (human).

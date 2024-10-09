@@ -32,7 +32,7 @@ Hi, I’m @Areeba-irfan ✨
 
 💞️ Looking to collaborate: I’m eager to contribute to exciting projects related to frontend development and AI.
 
-📫 How to reach me: You can connect with me via 📧 areeba.irfan@example.com for any inquiries or collaboration opportunities.
+📫 How to reach me: You can connect with me via 📧  m.ali9851kk@gmail.com for any inquiries or collaboration opportunities.
 
 😄 Pronouns: She/Her
 

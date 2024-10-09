@@ -21,7 +21,9 @@ Next.js
 Get in Touch 📬
 
 Personal Website
+
 LinkedIn : www.linkedin.com/in/areebairfan
+
 
 Hi, I’m @Areeba-irfan ✨
 👀 I’m passionate about web development, AI, and exploring new technologies that drive innovation.

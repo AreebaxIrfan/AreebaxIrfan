@@ -1,4 +1,4 @@
-About Me 🚀
+###About Me 🚀
 
 Hello! I’m Areeba, a passionate software engineer with a strong focus on web development. My journey in technology began with a curiosity about how things work, leading me to explore various programming languages and frameworks. I have a particular affinity for Next.js, TypeScript, and Tailwind CSS, which I leverage to create intuitive and aesthetically pleasing web applications. My approach to development emphasizes both functionality and design, ensuring that the solutions I create not only meet user needs but also provide a delightful experience.
 

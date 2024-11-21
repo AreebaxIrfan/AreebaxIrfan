@@ -1,10 +1,23 @@
 
 # 👋 Hi, I'm Areeba Irfan!
 
-Hello! I’m Areeba, a passionate software engineer with a strong focus on web development. My journey in technology began with a curiosity about how things work, leading me to explore various programming languages and frameworks. I have a particular affinity for Next.js, TypeScript, and Tailwind CSS, which I leverage to create intuitive and aesthetically pleasing web applications. My approach to development emphasizes both functionality and design, ensuring that the solutions I create not only meet user needs but also provide a delightful experience.
+👩🏻‍💻 Software Engineer passionate about web development and sharing my journey in tech<br/>
+👩🏻‍🎓 Studing Software Engnieering at the GIAIC <br/>
+🎨 Creating projects and tutorials about web development, Next.js, TypeScript, and design on [GitHub](https://github.com/Areeba-irfan-Github-account)<br/>
+🌷 #LearningInPublic through my [personal blog](https://medium.com/@m.ali9851kk)<br/>
+💭 Currently diving deeper into building scalable applications, UI/UX design, and enhancing my TypeScript skills!<br/>
 
-Beyond my technical skills, I am committed to continuous learning and personal growth. I enjoy tackling complex problems and thrive in collaborative environments where I can exchange ideas with fellow developers. In my spare time, I explore new technologies and contribute to open-source projects, always looking for ways to enhance my knowledge and skills. I believe that innovation stems from a blend of creativity and technical expertise, and I am excited to contribute to the ever-evolving landscape of technology.
 
+# 💻 Tech Stack
+<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)<br/>
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 🌱 Currently learning: Generative AI (GEN AI), Web3, and the Metaverse.
 🔭 Working on: JavaScript and TypeScript-based projects.

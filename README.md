@@ -1,5 +1,12 @@
-# 💫 About Me:
-👩🏻‍💻 Software Engineer passionate about web development and sharing my journey in tech<br>👩🏻‍🎓 Studied Software Engineering and constantly expanding my knowledge<br>🎨 Creating projects and tutorials about web development, Next.js, TypeScript, and design on GitHub<br>🌷 #LearningInPublic through my personal blog<br>💭 Currently diving deeper into building scalable applications, UI/UX design, and enhancing my TypeScript skills!<br><br>
+# 💫 About Me
+🌟 Hi, I'm Areeba! A dedicated Software Engineer with a passion for creating dynamic web experiences.
+
+💻 What I Do: Transforming ideas into scalable and visually appealing web applications.
+🎓 Lifelong Learner: A Software Engineering graduate, continuously exploring new horizons in tech.
+🌐 Sharing is Caring: I document my journey in tech through blogs and open-source projects on GitHub.
+🖌️ Creative Explorer: Enthusiastic about UI/UX design, TypeScript, and mastering Next.js for modern web solutions.
+🚀 Current Focus: Diving deeper into building robust applications, learning in public, and perfecting the art of clean code.
+✨ Let’s grow, create, and inspire together! 🌷
 
 # 🌐 Connect with Me
 <div align="center">

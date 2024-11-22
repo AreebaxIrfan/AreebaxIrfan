@@ -3,7 +3,7 @@
 
 
 <div align="center">
-    # 🌐 Connect with Me
+# 🌐 Connect with Me:
     <p style="font-style: italic; color: #6c757d;">Let's collaborate and share ideas!</p>
     <div>
         <a href="https://facebook.com/profile.php?id=61562497645022">

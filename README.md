@@ -8,9 +8,9 @@
 🚀 Current Focus: Diving deeper into building robust applications, learning in public, and perfecting the art of clean code.
 ✨ Let’s grow, create, and inspire together! 🌷
 
-# 🌐 Connect with Me
+### 🌐 Connect with Me
 <div align="center">
-    <p style="font-style: italic; color: #6c757d;">Let's collaborate and share ideas!</p>
+    <h1 style="font-style: italic; color: #6c757d;">Let's collaborate and share ideas!</h1>
     <div>
         <a href="https://facebook.com/profile.php?id=61562497645022">
             <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
@@ -28,13 +28,13 @@
             <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest">
         </a>
     </div>
-    <hr style="border: 1px solid #e0e0e0; width: 60%; margin: 20px auto;">
+  
    
  
 </div>
 
 
-# 💻 🚀 Technologies I Work With:
+### 💻 🚀 Technologies I Work With:
 <div align="center"> 
     <p style="font-weight: bold; color: #444;">Empowering ideas into reality</p>
     <a href="#"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>

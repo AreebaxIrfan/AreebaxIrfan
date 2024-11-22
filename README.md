@@ -10,7 +10,7 @@
 
 ### 🌐 Connect with Me
 <div align="center">
-    <h1 style="font-style: italic; color: #6c757d;">Let's collaborate and share ideas!</h1>
+    <h3 style="font-style: italic; color: #6c757d;">Let's collaborate and share ideas!</h3>
     <div>
         <a href="https://facebook.com/profile.php?id=61562497645022">
             <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
@@ -36,7 +36,7 @@
 
 ### 💻 🚀 Technologies I Work With:
 <div align="center"> 
-    <p style="font-weight: bold; color: #444;">Empowering ideas into reality</p>
+    <h3 style="font-weight: bold; color: #444;">Empowering ideas into reality</h3>
     <a href="#"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
     <a href="#"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
     <a href="#"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></a>

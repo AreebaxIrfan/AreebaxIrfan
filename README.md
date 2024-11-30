@@ -2,7 +2,7 @@
 🌟 Hi, I'm Areeba! A dedicated Software Engineer with a passion for creating dynamic web experiences.
 
 💻 What I Do: Transforming ideas into scalable and visually appealing web applications.
-🎓 Lifelong Learner: A Software Engineering graduate, continuously exploring new horizons in tech.
+🎓 Lifelong Learner: A Software Engineering , continuously exploring new horizons in tech.
 🌐 Sharing is Caring: I document my journey in tech through blogs and open-source projects on GitHub.
 🖌️ Creative Explorer: Enthusiastic about UI/UX design, TypeScript, and mastering Next.js for modern web solutions.
 🚀 Current Focus: Diving deeper into building robust applications, learning in public, and perfecting the art of clean code.

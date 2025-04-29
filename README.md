@@ -1,3 +1,6 @@
+
+<a href="https://gitroll.io/profile/ukFAiM8aywDh6Jx6Ad8kHVl0CCEJ3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ukFAiM8aywDh6Jx6Ad8kHVl0CCEJ3?theme=midnight" alt="GitRoll Profile Badge"/></a>
+
 # 💫 About Me 
 🌟 Hi, I'm Areeba! A dedicated Software Engineer with a passion for creating dynamic web experiences.
 

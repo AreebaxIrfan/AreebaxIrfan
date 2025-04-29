@@ -1,15 +1,27 @@
 
 <a href="https://gitroll.io/profile/ukFAiM8aywDh6Jx6Ad8kHVl0CCEJ3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ukFAiM8aywDh6Jx6Ad8kHVl0CCEJ3?theme=dark" alt="GitRoll Profile Badge"/></a>
 
-# 💫 About Me 
-🌟 Hi, I'm Areeba! A dedicated Software Engineer with a passion for creating dynamic web experiences.
+<h1 align="center">💫 About Me </h1>
+<h3 align="center">A Full Stack developer from Pakistan</h3>
 
-💻 What I Do: Transforming ideas into scalable and visually appealing web applications.
-🎓 Lifelong Learner: A Software Engineering , continuously exploring new horizons in tech.
-🌐 Sharing is Caring: I document my journey in tech through blogs and open-source projects on GitHub.
-🖌️ Creative Explorer: Enthusiastic about UI/UX design, TypeScript, and mastering Next.js for modern web solutions.
-🚀 Current Focus: Diving deeper into building robust applications, learning in public, and perfecting the art of clean code.
-✨ Let’s grow, create, and inspire together! 🌷
+<p align="left"> <a href="https://twitter.com/areebaxirfan" target="blank"><img src="https://img.shields.io/twitter/follow/areebaxirfan?logo=twitter&style=for-the-badge" alt="areebaxirfan" /></a> </p>
+
+- 🔭 I’m currently working on [a professional Streamlit app, organizing Python modules, and exploring AI for disease detection via eye images.](https://github.com/AreebaxIrfan/GIAIC_Q3/tree/main/%F0%9F%93%82Class_Assignment/assignment_07)
+
+- 🌱 I’m currently learning **Agentic AI, and the Dapr Agentic Cloud Ascent (DACA) design pattern.**
+
+- 👨‍💻 All of my projects are available at [https://areebairfan.vercel.app/](https://areebairfan.vercel.app/)
+
+- 📝 Some time write articles on [https://medium.com/@areebaIrfan_](https://medium.com/@areebaIrfan_)
+
+- 💬 Ask me about **react, Next.js**
+
+- 📫 How to reach me **the.areebairfan@gmail.com**
+
+- 📄 Know about my experiences [web development, e-commerce, UI/UX design, AI integration, and leading community-driven projects.](web development, e-commerce, UI/UX design, AI integration, and leading community-driven projects.)
+
+- ⚡ Fun fact **I’ve built multiple full-stack projects, led survey teams, and I’m aiming to launch an AI-powered startup solo!**
+
 
 ## 🌐 Connect with Me
 <div align="center">
@@ -32,27 +44,6 @@
         </a>
     </div> 
 </div>
-
-<h1 align="center">Hi 👋, I'm Areeba Irfan</h1>
-<h3 align="center">A Full Stack developer from Pakistan</h3>
-
-<p align="left"> <a href="https://twitter.com/areebaxirfan" target="blank"><img src="https://img.shields.io/twitter/follow/areebaxirfan?logo=twitter&style=for-the-badge" alt="areebaxirfan" /></a> </p>
-
-- 🔭 I’m currently working on [a professional Streamlit app, organizing Python modules, and exploring AI for disease detection via eye images.](https://github.com/AreebaxIrfan/GIAIC_Q3/tree/main/%F0%9F%93%82Class_Assignment/assignment_07)
-
-- 🌱 I’m currently learning **Agentic AI, and the Dapr Agentic Cloud Ascent (DACA) design pattern.**
-
-- 👨‍💻 All of my projects are available at [https://areebairfan.vercel.app/](https://areebairfan.vercel.app/)
-
-- 📝 Some time write articles on [https://medium.com/@areebaIrfan_](https://medium.com/@areebaIrfan_)
-
-- 💬 Ask me about **react, Next.js**
-
-- 📫 How to reach me **the.areebairfan@gmail.com**
-
-- 📄 Know about my experiences [web development, e-commerce, UI/UX design, AI integration, and leading community-driven projects.](web development, e-commerce, UI/UX design, AI integration, and leading community-driven projects.)
-
-- ⚡ Fun fact **I’ve built multiple full-stack projects, led survey teams, and I’m aiming to launch an AI-powered startup solo!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -4,7 +4,7 @@
 <h1 align="center">💫 About Me </h1>
 <h3 align="center">A Full Stack developer from Pakistan</h3>
 
-- 🔭 I’m currently working on a professional Streamlit app, organizing Python modules, and exploring AI for disease detection via eye images.[https://mediscan-ai-pro.streamlit.app/](https://github.com/AreebaxIrfan/GIAIC_Q3/tree/main/%F0%9F%93%82Class_Assignment/assignment_07)
+- 🔭 I’m currently working on a professional Streamlit app, organizing Python modules, and exploring AI for disease detection via eye images.[mediscan-ai-pro.streamlit](https://github.com/AreebaxIrfan/GIAIC_Q3/tree/main/%F0%9F%93%82Class_Assignment/assignment_07)
 
 - 🌱 I’m currently learning **Agentic AI, and the Dapr Agentic Cloud Ascent (DACA) design pattern.**
 

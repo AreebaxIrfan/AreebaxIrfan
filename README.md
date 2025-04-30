@@ -1,5 +1,5 @@
 
-<a href=https://gitroll.io/profile/ukFAiM8aywDh6Jx6Ad8kHVl0CCEJ3 target="_blank"><img src="(https://gitroll.io/profile/ukFAiM8aywDh6Jx6Ad8kHVl0CCEJ3)?theme=dark" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/ukFAiM8aywDh6Jx6Ad8kHVl0CCEJ3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ukFAiM8aywDh6Jx6Ad8kHVl0CCEJ3?theme=dark" alt="GitRoll Profile Badge"/></a>
 
 <h1 align="center">💫 About Me </h1>
 <h3 align="center">A Full Stack developer from Pakistan</h3>

@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Agentic AI, and the Dapr Agentic Cloud Ascent (DACA) design pattern.**
 
-- 👨‍💻 All of my projects are available at [https://areebairfan.vercel.app/](https://areebairfan.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://areebairfan.vercel.app/](https://areebaxirfan.vercel.app/)
 
 - 📝 Some time write articles on [https://medium.com/@areebaIrfan_](https://medium.com/@areebaxirfan)
 

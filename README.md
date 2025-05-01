@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://areebairfan.vercel.app/](https://areebairfan.vercel.app/)
 
-- 📝 Some time write articles on [https://medium.com/@areebaIrfan_](https://medium.com/@areebaIrfan_)
+- 📝 Some time write articles on [https://medium.com/@areebaIrfan_](https://medium.com/@areebaxirfan)
 
 - 💬 Ask me about **react, Next.js**
 

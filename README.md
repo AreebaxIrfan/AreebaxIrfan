@@ -1,23 +1,5 @@
 
 <a href="https://gitroll.io/profile/ukFAiM8aywDh6Jx6Ad8kHVl0CCEJ3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ukFAiM8aywDh6Jx6Ad8kHVl0CCEJ3?theme=light" alt="GitRoll Profile Badge"/></a>
-<h1 align="center">💫 About Me </h1>
-<h3 align="center">A Full Stack developer from Pakistan</h3>
-
-- 🔭 I’m currently working on a professional Streamlit app, organizing Python modules, and exploring AI for disease detection via eye images.[mediscan-ai-pro.streamlit](https://github.com/AreebaxIrfan/GIAIC_Q3/tree/main/%F0%9F%93%82Class_Assignment/assignment_07)
-
-- 🌱 I’m currently learning **Agentic AI, and the Dapr Agentic Cloud Ascent (DACA) design pattern.**
-
-- 👨‍💻 All of my projects are available at [https://areebairfan.vercel.app/](https://areebaxirfan.vercel.app/)
-
-- 📝 Some time write articles on [https://medium.com/@areebaIrfan_](https://medium.com/@areebaxirfan)
-
-- 💬 Ask me about **react, Next.js**
-
-- 📫 How to reach me **the.areebairfan@gmail.com**
-
-- 📄 Know about my experiences [web development, e-commerce, UI/UX design, AI integration, and leading community-driven projects.](web development, e-commerce, UI/UX design, AI integration, and leading community-driven projects.)
-
-- ⚡ Fun fact **I’ve built multiple full-stack projects, led survey teams, and I’m aiming to launch an AI-powered startup solo!**
 
 <h1 align="center">🌐 Connect with Me</h1>
 

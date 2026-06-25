@@ -25,4 +25,5 @@
             <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest">
         </a>
     </div> 
+    ![](https://komarev.com/ghpvc/?username=AreebaxIrfan)
 </div>
